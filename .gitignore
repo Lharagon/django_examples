@@ -1,2 +1,4 @@
 blog/my_env/
 blog/.idea/
+*.pyc
+blog/mysite/blog/__pychache__/
