@@ -2,3 +2,4 @@ blog/my_env/
 blog/.idea/
 *.pyc
 blog/mysite/blog/__pychache__/
+blog/mysite/mysite/__pycache__/
