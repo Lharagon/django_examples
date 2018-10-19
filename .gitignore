@@ -3,3 +3,5 @@ blog/.idea/
 *.pyc
 blog/mysite/blog/__pychache__/
 blog/mysite/mysite/__pycache__/
+social/env
+social/.idea/
